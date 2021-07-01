@@ -1,0 +1,1 @@
+### Not changed config file from https://github.com/freyacodes/Lavalink/blob/master/LavalinkServer/application.yml.example
